@@ -1,2 +1,5 @@
 # Hello-world
-first trial to leard github
+first trial to learn github
+
+
+to learn the branch functions
